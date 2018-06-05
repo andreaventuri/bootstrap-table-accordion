@@ -1,0 +1,26 @@
+[
+  [
+    "Item code",
+    "Description",
+    "Quantity",
+    "Price"
+  ],
+  [
+    4256,
+    "Arduino Uno",
+    "1",
+    "€ 20.00"
+  ],
+  [
+    8762,
+    "Green Led",
+    "4",
+    "€ 1.00"
+  ],
+  [
+    6273,
+    "Push Button",
+    "3",
+    "€ 2.50"
+  ]
+]
